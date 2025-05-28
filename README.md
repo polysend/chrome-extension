@@ -1,4 +1,4 @@
-# Polysend
+# Polysend Chrome Extension
 
 A multi-token payment browser extension that enables seamless token payments directly from websites with minimal friction - plus SSO similar sign ins into websites.
 
